@@ -1,0 +1,4 @@
+/*background stying*/
+*, *:before, *:after {
+  box-sizing: border-box;
+}
