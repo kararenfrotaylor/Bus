@@ -4,49 +4,77 @@
 }
 
 .container {
-  background-color: #d2d2d2;
+  background-color: #080808;
   margin: 0 auto;
   width: 375px;
+  color: #BDBDBD;
 }
 
 h1 {
   padding-bottom: 1%;
   font-family: SF Pro Display;
   text-align: center;
-  margin-bottom: 2%;
+  padding-top: 15px;
   font-size: 34px;
-  background-color: #d2d2d2;
+  background-color: #080808;
   margin: 0 auto;
-  width: 375px;
-  margin-top: -4%;
+  color: #FF9500;
 }
 
 .left-arrow {
-  background-color: #d2d2d2;
   margin: 0 auto;
-  width: 375px;
+  display: block;
+  float: left;
   padding-left: 5%;
+  padding-top: 21px;
 }
 .search {
   text-align: center;
-  background-color: #d2d2d2;
   margin: 0 auto;
   width: 375px;
+  background-color: #080808;
 }
- .status-bar {
-   background-color: #d2d2d2;
-   margin: 0 auto;
-   width: 375px;
- }
 
- .title {
-   display: inline-blcok;
+.status-bar {
+  margin: 0 auto;
+  background-color: #080808;
+}
+
+.title {
+  height: 64px;
+  background-color: grey;
+}
+
+.title h2 {
    font-family: SF Pro Display;
-   font-size: 12px;
-   margin-left: 2%;
-   margin-top: 3%;
-   display: inline-block;
+   font-size: 26px;
+   margin-left: 3.5%;
+   margin-top: 5%;
+   float: left;
+   color: #11BDFF;
  }
 
-.title li .destination {
- }
+.route .bus-number {
+    font-family: SF Pro Display;
+    font-size: 16px;
+    float: left;
+    width: 20%;
+   }
+
+.route .direction {
+  width: 40%;
+}
+
+.route .frequency {
+  width: 30%;
+  padding-left: 20px;
+}
+
+.bus-number img {
+  margin-left: -11%;
+  margin-top: 3%;
+}
+
+.route ul li {
+  float: left;
+}
