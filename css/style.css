@@ -65,20 +65,15 @@ h1 {
 .route .bus-number {
     font-family: SF Pro Display;
     font-size: 16px;
-    float: left;
     width: 20%;
     padding-left: 10px;
+
    }
 
 .route .direction {
   font-family: SF Pro Display;
-  width: 95%;
-
-}
-
-.direction {
-  padding-top: 5px;
-  padding-left: 100px;
+  width: 58%;
+  float: left;
 }
 
 .direction h3, h4 {
@@ -87,16 +82,14 @@ h1 {
 
 .route .frequency {
   font-family: SF Pro Display;
-  width: 60%;
-  padding-left: 65px;
-  float: right;
-  padding-right: 12px;
+  width: 22%;
+  float: left;
 }
 
 .bus-number img {
   float: left;
   padding-right: 10px;
-  padding-top: 15px;
+
 }
 
 .bus-number h3 {
