@@ -63,7 +63,9 @@ h1 {
    }
 
 .route .direction {
+  font-family: SF Pro Display;
   width: 95%;
+
 }
 
 .direction {
@@ -76,6 +78,7 @@ h1 {
 }
 
 .route .frequency {
+  font-family: SF Pro Display;
   width: 60%;
   padding-left: 20px;
   float: right;
