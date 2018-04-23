@@ -100,3 +100,15 @@ h1 {
 ul .direction {
   padding: 7px;
 }
+
+.more-options {
+  height: 46px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  width: 375px;
+}
+
+.more-options img {
+  padding-left: 173px;
+
+}
