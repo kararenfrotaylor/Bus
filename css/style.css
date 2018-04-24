@@ -12,7 +12,7 @@
 
 h1 {
   padding-bottom: 1%;
-  font-family: SF Pro Display;
+  font-family: SF Pro Display, sans-serif;
   text-align: center;
   padding-top: 15px;
   font-size: 34px;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .title h2 {
-   font-family: SF Pro Display;
+   font-family: SF Pro Display, sans-serif;
    font-size: 26px;
    float: left;
    color: #11BDFF;
@@ -63,7 +63,7 @@ h1 {
  }
 
 .route .bus-number {
-    font-family: SF Pro Display;
+    font-family: SF Pro Display, sans-serif;
     font-size: 16px;
     width: 22%;
     float: left;
@@ -72,7 +72,7 @@ h1 {
    }
 
 .route .direction {
-  font-family: SF Pro Display;
+  font-family: SF Pro Display, sans-serif;
   width: 52%;
   float: left;
 }
@@ -82,7 +82,7 @@ h1 {
 }
 
 .route .frequency {
-  font-family: SF Pro Display;
+  font-family: SF Pro Display, sans-serif;
   width: 26%;
   float: left;
   padding-top: 9px;
